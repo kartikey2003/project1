@@ -1,0 +1,225 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Anton&family=Epilogue:wght@500;700&display=swap');
+
+body{
+  background-image:url(hero1.png) 
+  
+}
+.logo1{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+div{
+    display: inline;
+
+}
+/* Dropdown Button */
+.dropbtn1 {
+    background-color: #fcfdfe;
+    color: black;
+    padding: 16px;
+    padding-left: 60px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Dropdown button on hover & focus */
+  .dropbtn1:hover, .dropbtn1:focus {
+    background-color: whitess;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown1 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content1 {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content1 a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+/* Change color of dropdown links on hover */
+.dropdown-content1 a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}  
+
+
+
+
+
+
+
+
+/* Dropdown Button2 */
+.dropbtn2 {
+    background-color: #fcfdfe;
+    color: black;
+    padding: 16px;
+    padding-left: 0px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Dropdown button2 on hover & focus */
+  .dropbtn2:hover, .dropbtn2:focus {
+    background-color: whitess;
+  }
+  
+  /* The container <div> - needed to position the dropdown content 2 */
+  .dropdown2 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content 2 (Hidden by Default) */
+  .dropdown-content2 {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown2 */
+  .dropdown-content2 a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+/* Change color of dropdown2 links on hover */
+.dropdown-content2 a:hover {background-color: #ddd;}
+
+/* Show the dropdown2 menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;} 
+
+
+
+
+button.btn3 {
+    background-color: #fcfdfe;
+    color: black;
+    padding: 16px;
+    padding-left: 0px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    display: inline-block;
+  }
+
+  .btn4 {
+    background-color: #fcfdfe;
+    color: black;
+    padding: 16px;
+    padding-left:0px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    display: inline-block;
+   
+  }
+
+  .btn5{
+
+    padding: 16px;
+    margin-left: 650px;
+    padding-left:0px;
+    background-color: #ffffff;
+
+  }
+
+  .btn6{
+    background-color: #ffffff;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 20px;
+    
+  }
+
+  .btn6 {
+    background-color: white; 
+    color: rgb(246, 239, 239); 
+    border: 2px solid #000000;
+  }
+
+a{
+    text-decoration: none;
+    color: black;
+     
+}
+
+.make{
+    margin-left: 115px;
+    font-size: larger;
+    font-family: 'Epilogue', sans-serif;
+    
+}
+.work{
+    margin-left: 115px;
+    font-size: larger;
+    font-family: 'Epilogue', sans-serif;
+}
+p{
+     margin-left: 115px;
+     font-size:small;
+     color: rgb(139, 134, 127);
+}
+  
+.hello{
+  background-color: #ffffff;
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 50px;
+  margin-left: 115px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 20px;
+}
+.hello {
+  background-color: rgb(0, 0, 0); 
+  color: rgb(255, 255, 255); 
+  border: 2px solid #000000;
+}
+
+.hello:hover {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+}
+
+.lastimg{
+margin-left: 100px;
+}
+.lastimg1{
+  margin-left: 115px;
+}
